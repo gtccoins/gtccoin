@@ -1,0 +1,9 @@
+Building GlobalTourCoin
+
+See doc/readme-qt.rst for instructions on building GlobalTourCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlobalTourCoin.
+
+See doc/build-*.txt for instructions on building GlobalTourCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlobalTourCoin.
